@@ -1,9 +1,8 @@
 This project was created with ReactJS, Typescript, Hooks and tests with Jest.
 
-## Steps
+### Download or clone the project.
 
-1- Download or clone the project.
-2- run
+### Install dependencies
 ```
 npm install
 ```
