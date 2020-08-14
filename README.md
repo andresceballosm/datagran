@@ -1,5 +1,12 @@
 This project was created with ReactJS, Typescript, Hooks and tests with Jest.
 
+## Steps
+
+1- Download or clone the project.
+2- run
+```
+npm install
+```
 ## Available Scripts
 
 In the project directory, you can run:
